@@ -53,7 +53,7 @@ GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT((#35)) GLOBAL_UNIT_ASSIGNED_CONTEXT(
 #38 = PRODUCT_DEFINITION_SHAPE('','',#39);
 #39 = PRODUCT_DEFINITION('design','',#40,#43);
 #40 = PRODUCT_DEFINITION_FORMATION('','',#41);
-#41 = PRODUCT('Pokemon Hackpad_copper','Pokemon Hackpad_copper','',(#42)
+#41 = PRODUCT('Pokeyboardy_copper','Pokeyboardy_copper','',(#42)
   );
 #42 = PRODUCT_CONTEXT('',#2,'mechanical');
 #43 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
@@ -40228,8 +40228,8 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
 #39874 = PRODUCT_DEFINITION_SHAPE('','',#39875);
 #39875 = PRODUCT_DEFINITION('design','',#39876,#39879);
 #39876 = PRODUCT_DEFINITION_FORMATION('','',#39877);
-#39877 = PRODUCT('Pokemon Hackpad_silkscreen',
-  'Pokemon Hackpad_silkscreen','',(#39878));
+#39877 = PRODUCT('Pokeyboardy_silkscreen',
+  'Pokeyboardy_silkscreen','',(#39878));
 #39878 = PRODUCT_CONTEXT('',#2,'mechanical');
 #39879 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #39880 = SHAPE_REPRESENTATION('',(#11,#39881,#40251,#40754,#45318,#45430
@@ -77196,8 +77196,8 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
 #76393 = PRODUCT_DEFINITION_SHAPE('','',#76394);
 #76394 = PRODUCT_DEFINITION('design','',#76395,#76398);
 #76395 = PRODUCT_DEFINITION_FORMATION('','',#76396);
-#76396 = PRODUCT('Pokemon Hackpad_silkscreen',
-  'Pokemon Hackpad_silkscreen','',(#76397));
+#76396 = PRODUCT('Pokeyboardy_silkscreen',
+  'Pokeyboardy_silkscreen','',(#76397));
 #76397 = PRODUCT_CONTEXT('',#2,'mechanical');
 #76398 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #76399 = SHAPE_REPRESENTATION('',(#11,#76400,#76468,#76619,#76687,#76838
@@ -78713,7 +78713,7 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
 #77884 = PRODUCT_DEFINITION_SHAPE('','',#77885);
 #77885 = PRODUCT_DEFINITION('design','',#77886,#77889);
 #77886 = PRODUCT_DEFINITION_FORMATION('','',#77887);
-#77887 = PRODUCT('Pokemon Hackpad_PCB','Pokemon Hackpad_PCB','',(#77888)
+#77887 = PRODUCT('Pokeyboardy_PCB','Pokeyboardy_PCB','',(#77888)
   );
 #77888 = PRODUCT_CONTEXT('',#2,'mechanical');
 #77889 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
