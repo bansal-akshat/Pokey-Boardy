@@ -1,0 +1,11 @@
+assets_ignore/*
+*_pcb-backups
+fp-info-cache.history/.history/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+fp-lib-table.bak
+sym-lib-table.bak
+~*.lck
+**/.history/
+.history/.history/
